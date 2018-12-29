@@ -8,3 +8,6 @@ Guia de usuario.docx
 4-> Cronograma.docx
 
 Para mas informacion contactar: mrluismartinez07@gmail.com 
+
+
+No para obtener lucros con dicho proyecto.
