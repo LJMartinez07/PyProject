@@ -7,7 +7,7 @@ Guia de usuario.docx </br>
 3-> Cronograma de trabajo con grafica Gantt.xlsx </br>
 4-> Cronograma.docx </br>
 
-Para mas informacion contactar: mrluismartinez07@gmail.com  </br>
+Para mas informacion contactar: mrluismartinez28@gmail.com  </br>
 
 
 No para obtener lucros con dicho proyecto.
