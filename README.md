@@ -9,5 +9,7 @@ Guia de usuario.docx </br>
 
 Para mas informacion contactar: mrluismartinez28@gmail.com  </br>
 
-
+Tecnologías
+Python 
+MySQL 
 No para obtener lucros con dicho proyecto.
